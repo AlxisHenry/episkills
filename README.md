@@ -1,4 +1,4 @@
-# Episkills - Une meilleure visibilité sur vos compétences Epitech
+# Episkills
 
 Episkills est une extension Chrome conçue pour les étudiants d'Epitech qui utilisent la plateforme Gandalf. Cette extension extrait automatiquement toutes vos compétences et les affiche sous une forme plus lisible et compréhensible.
 
