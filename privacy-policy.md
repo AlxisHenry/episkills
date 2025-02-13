@@ -1,0 +1,9 @@
+# Politique de confidentialité - Episkills
+
+Episkills est une extension Chrome destinée aux étudiants d'Epitech. Elle n'extrait ni ne stocke aucune donnée personnelle. Toutes les informations traitées restent locales au navigateur et ne sont pas partagées avec des tiers.
+
+Episkills simplifie le suivi des compétences sur Gandalf en ajoutant une visualisation claire et intuitive sur la page "My competencies". Une première barre de progression affiche le nombre total de compétences acquises, tous modules confondus, par rapport au maximum possible. Les utilisateurs peuvent également voir la liste des projets associés, avec un détail précis des compétences obtenues et restantes. Ensuite, Episkills propose un affichage par module, avec une barre de progression spécifique et la liste des projets concernés. Pour chaque projet, l’extension indique les compétences acquises dans le module correspondant. Grâce à cette présentation structurée, les étudiants d’Epitech disposent enfin d’un outil efficace pour évaluer leur progression sans se perdre dans l’interface confuse de Gandalf.
+
+Episkills requiert l'autorisation d'accéder à la page https://gandalf.epitech.eu/local/graph/view.php afin d'extraire les données des compétences des étudiants d'Epitech. L'extension lit uniquement les informations pertinentes présentes sur cette page, notamment la liste des projets, les compétences acquises, les compétences maximales, les intitulés des compétences, les notes et les grades. Ces données sont ensuite formatées en un objet structuré permettant d'afficher une visualisation plus claire et intuitive des compétences. Aucune donnée n'est transmise à des tiers ni stockée en dehors du navigateur. L’accès est strictement limité à cette URL et sert uniquement à améliorer l'expérience utilisateur en réorganisant les informations déjà disponibles sur Gandalf.
+
+Dernière mise à jour : 13/02/2025
