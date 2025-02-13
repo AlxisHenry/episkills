@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Episkills",
+  "version": "1.0.0",
+  "description": "Extract all your competencies from Gandalf and show them in a more readable way.",
+  "icons": {
+    "32": "public/32.png",
+    "192": "public/192.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://gandalf.epitech.eu/local/graph/view.php"],
+      "js": ["content.js"]
+    }
+  ]
+}
