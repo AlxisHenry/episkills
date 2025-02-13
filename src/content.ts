@@ -31,7 +31,7 @@ const formatProjectTitle = (
 };
 
 const formatModuleName = (name: string): string => {
-  return name?.split(" ")[1];
+  return name?.split(". ")[1];
 };
 
 const createCompetenciesNavigation = () => {
